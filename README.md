@@ -66,7 +66,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/animesh156/mental-wellness-app.git
+git clone https://github.com/CalebMunene254/Mental-Health-Platform.git
 
 ```
 
@@ -163,5 +163,5 @@ This project is licensed under the MIT License - see the [MIT](https://chooseali
 
 ## Demo
 
-https://mental-wellness-iota.vercel.app/
+https://vercel.app/
 
